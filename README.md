@@ -5,7 +5,7 @@
 #### 📫 Here is my e-mail : lucasvilasboaslage@gmail.com
 #### 📫 And here my LinkedIn : https://bityli.com/4KJye
 
-## ⚡ Fun fact: In my computer, it work's.
+## ⚡ Fun fact: In my computer, it works.
 
 <!--
 **VilasBoas1407/VilasBoas1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
