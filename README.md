@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+#### 🔭 I’m currently working on CAPYS
+#### 💬 I’m currently learning React and searching about Kotlin.
+#### 📫 Here is my e-mail : lucasvilasboaslage@gmail.com
+#### 📫 And here my LinkedIn : https://bityli.com/4KJye
+
+## ⚡ Fun fact: In my computer, it work's.
 
 <!--
 **VilasBoas1407/VilasBoas1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
