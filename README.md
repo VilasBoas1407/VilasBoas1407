@@ -12,7 +12,8 @@
       <img align="left" alt="Whatsapp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />
     </a>
  </div>
-
+<br>
+<br>
 
 ## Sobre mim:
 #### 🔭 Atualmente estou trabalhando com AngularJS e .Net na  <code><a target="_blank" href="http://www.capys.com.br">CAPYS IT SOLUTIONS</a></code>
