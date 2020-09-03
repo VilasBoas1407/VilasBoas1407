@@ -1,6 +1,6 @@
 # Hello World! Lucas Vilas Boas 👋
 ## Como você pode me encontrar ?
-<code>
+
   <div style="margin-left:5px">
     <a target="_blank" href="https://www.linkedin.com/in/lucas-vilas-boas-l-a348b313a/">
       <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
@@ -12,7 +12,7 @@
       <img align="left" alt="Whatsapp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />
     </a>
  </div>
-</code>
+
 
 ## Sobre mim:
 #### 🔭 Atualmente estou trabalhando com AngularJS e .Net na  <code><a target="_blank" href="http://www.capys.com.br">CAPYS IT SOLUTIONS</a></code>
