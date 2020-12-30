@@ -16,9 +16,7 @@
 <br>
 
 ## Sobre mim:
-#### 🔭 Atualmente estou trabalhando com AngularJS e .Net na  <code><a target="_blank" href="http://www.capys.com.br">CAPYS IT SOLUTIONS</a></code>
-#### 🎓 Estou no 4º Período de Ciência da Computação na UniBH.
-#### 💬 Estou também estudando React Native e pretendo pesquisar sobre Flutter e Kotlin.
+#### Me chamo Lucas, acabo de entrar no 5º período de Ciência da Computação, e a minha aréa preferida é o desenvolvimento backend com .Net Core, utilizando DDD, teste unitários e atualmente iniciando meus estudos no Docker, tenho conhecimento também e tecnologias para desenvolvimento de fronend com Angular 9+ e um breve conhecimento em React Native para aplicações mobile.
 
 #### ⚡ Fun fact: In my computer, it works.
 
