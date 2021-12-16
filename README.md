@@ -3,14 +3,11 @@
 
   <div style="margin-left:5px">
     <a target="_blank" href="https://www.linkedin.com/in/lucas-vilas-boas-l-a348b313a/">
-      <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />
+      <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1639620884~hmac=f93959b9964c7fcf01a61bf79a044ebb" />
     </a>
      <a target="_blank" href="mailto:lucasvilasboaslage@gmail.com">
-       <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+       <img align="left" alt="LinkdeIN" width="22px" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1639621765~hmac=2a2517a63472da06d40063ed3ccffc0d" />
      </a>
-     <a target="_blank" href="https://api.whatsapp.com/send?phone=5531998702381">
-      <img align="left" alt="Whatsapp" width="22px" src="https://image.flaticon.com/icons/svg/733/733585.svg" />
-    </a>
  </div>
 <br>
 <br>
