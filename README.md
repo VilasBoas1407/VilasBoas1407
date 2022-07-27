@@ -3,7 +3,7 @@
 <br>
 
 ## Sobre mim:
-#### Me chamo Lucas, acabo de entrar no 7º período de Ciência da Computação, e a minha aréa preferida é o desenvolvimento backend com .Net Core, utilizando DDD, teste unitários e atualmente iniciando meus estudos no Docker, tenho conhecimento também e tecnologias para desenvolvimento de frontend com Angular 9+, React e React Native.
+#### Me chamo Lucas, acabo de entrar no 8º período de Ciência da Computação, e a minha aréa preferida é o desenvolvimento backend com .Net Core, utilizando DDD, teste unitários e atualmente iniciando meus estudos no Docker, tenho conhecimento também e tecnologias para desenvolvimento de frontend com Angular 9+, React e React Native.
 
 #### ⚡ Fun fact: In my computer, it works.
 
