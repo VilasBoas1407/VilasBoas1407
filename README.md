@@ -1,11 +1,10 @@
-# Hello World! Lucas Vilas Boas 👋
+# Hello There 👋
 <br>
 <br>
 
-## Sobre mim:
-#### Me chamo Lucas, acabo de entrar no 8º período de Ciência da Computação, e a minha aréa preferida é o desenvolvimento backend com .Net Core, utilizando DDD, teste unitários e atualmente iniciando meus estudos no Docker, tenho conhecimento também e tecnologias para desenvolvimento de frontend com Angular 9+, React e React Native.
-
-#### ⚡ Fun fact: In my computer, it works.
+## About me:
+#### My name is Lucas, I'm a Software Developer at my last year of the college, I'm graduating in Computer Science by Uni-BH, actually I work in DTI using the most recently versions of React and .Net Framework together with Scrum and Azure as cloud computing.
+I have also experience with React Native, NodeJS and Angular.
 
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=VilasBoas1407&show_icons=true)
