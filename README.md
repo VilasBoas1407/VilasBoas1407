@@ -3,8 +3,7 @@
 <br>
 
 ## About me:
-#### My name is Lucas, I'm a Software Developer at my last year of the college, I'm graduating in Computer Science by Uni-BH, actually I work in DTI using the most recently versions of React and .Net Framework together with Scrum and Azure as cloud computing.
-I have also experience with React Native, NodeJS and Angular.
+#### I have a degree in Computer Science with extensive experience in software development. My goal is to build high-quality software solutions that efficiently and effectively meet the needs of businesses.<br> With solid skills in .Net, C#, Javascript, Typescript, SQL Server, React, and Agile Methodologies, I have worked on large-scale projects such as TOTVS RM and LIS from Hermes Pardini.<br><br>I constantly seek to learn new technologies and methodologies, and I am always willing to take on new challenges.
 
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=VilasBoas1407&show_icons=true)
