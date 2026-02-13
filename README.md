@@ -10,6 +10,11 @@
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilasBoas1407&theme=radical)
+
+---
 
 ## 🚀 Professional Summary
 
@@ -70,13 +75,6 @@ Experience with:
 
 ---
 
-## 📊 GitHub Analytics
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VilasBoas1407&theme=radical)
-
----
-
-
 ## 🌱 Currently Improving
 
 • Distributed systems concepts  
@@ -111,7 +109,7 @@ I am particularly interested in working with:
 
 ---
 
-# ⚡ Personal Note
+## ⚡ Personal Note
 
 Technology, for me, is about building things that last.
 
